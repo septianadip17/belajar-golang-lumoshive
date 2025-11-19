@@ -25,6 +25,16 @@ func main() {
 		{"Algoritma Praktis", "Budi", 2020},
 		{"Web dengan Go", "Rina", 2015},
 		{"Sistem Terdistribusi", "Tono", 2010},
+		{"Machine Learning 101", "Agus", 2021},
+		{"Jaringan Komputer", "Joko", 2014},
+		{"Basis Data Modern", "Lina", 2016},
+		{"Cloud Computing", "Nita", 2019},
+		{"Arsitektur Software", "Hadi", 2013},
+		{"Kecerdasan Buatan", "Arya", 2022},
+		{"Struktur Data", "Eka", 2011},
+		{"DevOps Handbook", "Rama", 2017},
+		{"Pemrograman Mobile", "Sari", 2018},
+		{"Keamanan Siber", "Fajar", 2020},
 	}
 
 	minTahun := 2015
