@@ -26,6 +26,7 @@ func ProcessTicket(req dto.Request) dto.Response {
 }
 
 func PrintResponse(resp dto.Response) {
+	fmt.Println()
 	fmt.Println("=== Harga Tiket ===")
 	fmt.Println("Penumpang :", resp.Passenger)
 	fmt.Println("Tujuan    :", resp.Destination)
